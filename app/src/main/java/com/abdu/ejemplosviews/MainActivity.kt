@@ -39,6 +39,7 @@ class MainActivity : AppCompatActivity() {
             escribirNombre.text.clear()
             textView3.text = ""
         }
+
     }
 
 }
